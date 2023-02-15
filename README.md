@@ -58,6 +58,7 @@ On additional branches, you can make edits without impacting the `main` version.
 **What is a profile README?**: A [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page.
 
 ### :keyboard: Activity: Your first branch
+>TRANSLATE THESE STEPS TO (AND USE) YOUR CLI
 
 1. Open a new browser tab, and navigate to this same repository. Then, work on the steps in your second tab while you read the instructions in this tab.
 2. Navigate to the **Code** tab.
@@ -86,7 +87,8 @@ Creating a branch allows you to edit your project without changing the `main` br
 **What is a commit?**: A [commit](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) is a set of changes to the files and folders in your project. A commit exists in a branch.
 
 ### :keyboard: Activity: Your first commit
-
+>TRANSLATE THESE STEPS TO (AND USE) YOUR CLI
+  
 The following steps will guide you through the process of committing a change on GitHub. Committing a change requires first adding a new file to your new branch. 
 
 1. On the **Code** tab, make sure you're on your new branch `my-first-branch`.
