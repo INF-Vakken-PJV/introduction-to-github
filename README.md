@@ -29,16 +29,6 @@ People use GitHub to build some of the most advanced technologies in the world. 
 - **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
 - **How long**: This course is four steps long and takes less than one hour to complete.
 
-## How to start this course
-
-1. Right-click **Start course** and open the link in a new tab.
-   <br />[![start-course](https://user-images.githubusercontent.com/1221423/218596841-0645fe1a-4aaf-4f51-9ab3-8aa2d3fdd487.svg)](https://github.com/skills/introduction-to-github/generate)
-2. In the new tab, follow the prompts to create a new repository.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository—private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   ![Create a new repository](https://user-images.githubusercontent.com/1221423/218594143-e60462b6-9f2a-4fa3-80de-063ac5429aab.png)
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
-
 </details>
 
 <!-- 
@@ -211,22 +201,6 @@ Here's a recap of your accomplishments:
 - You merged a pull request.
 - You made your first contribution! :tada:
 
-### What's next?
-
-  If you'd like to make a profile README, use the simplified instructions below or follow the instructions in the [Managing your profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) article.
-  1. Make a new public repository with a name that matches your GitHub username.
-  2. Create a file named `README.md` in its root. The "root" means not inside any folder in your repository.
-  3. Edit the contents of the `README.md` file.
-  4. If you created a new branch for your file, open and merge a pull request on your branch.
-  5. We'd love to see your new profile! Share your profile on social media and tag us!
-  6. Lastly, we'd love to hear what you thought of this course [in our discussion board](https://github.com/skills/.github/discussions).
-
-Check out these resources to learn more or get involved:
-- Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
 </details>
 
 <!--
@@ -236,6 +210,5 @@ Check out these resources to learn more or get involved:
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
-&copy; 2022 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
+Adaptation of [github.com/skills/introduction-to-github](https://github.com/skills/introduction-to-github) &copy; 2022 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
